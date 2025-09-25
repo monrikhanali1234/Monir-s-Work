@@ -4,7 +4,7 @@ print(s.strip())
 
 s = "Hello, World!"
 print(s.find("World"))   # Output: 7
-print(s.replace("World", "Python"))
+print(s.replace("World", "Python", "Java"))
 
 s = [
     [45, 86, 78],
